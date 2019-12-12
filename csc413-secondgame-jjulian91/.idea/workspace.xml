@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="csc413-secondgame-jjulian91:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/GameFiles/MapCreator.java" line="19" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1723382-f2d6-41c0-8706-d89eaaf770dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/GameFiles/GalacticMail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GameFiles/GalacticMail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/Asteroid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/Asteroid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/Explosion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/Ship.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/GalacticMail.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-58">
+              <caret line="197" column="12" selection-start-line="197" selection-start-column="12" selection-end-line="197" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#main#0;class#GalacticMail#0" />
+                <element signature="docComment;method#paintComponent#0;class#GalacticMail#0" />
+                <element signature="method#paintComponent#0;class#GalacticMail#0" />
+                <element signature="docComment;method#getMapItems#0;class#GalacticMail#0" />
+                <element signature="docComment;method#drawGame#0;class#GalacticMail#0" />
+                <element signature="method#drawGame#0;class#GalacticMail#0" />
+                <element signature="method#checkCollisions#0;class#GalacticMail#0" />
+                <element signature="method#endGame#0;class#GalacticMail#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/HashMaps/ConfigFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="e#592#593#0" expanded="true" />
+                <element signature="e#636#637#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/HashMaps/ImageTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="15" column="60" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/Control.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>collide</find>
+      <find>update</find>
+      <find>bound</find>
+      <find>boundary</find>
+      <find>mini</find>
+      <find>screen</find>
+      <find>getshow</find>
+      <find>check</find>
+      <find>baseRemoved</find>
+      <find>ships</find>
+      <find>checkBorder</find>
+      <find>rotationSpeed</find>
+      <find>mapgen</find>
+      <find>mapGen</find>
+      <find>forward</find>
+      <find>lastmoon</find>
+      <find>obj</find>
+      <find>score</find>
+      <find>getMin</find>
+      <find>bufferedreader</find>
+      <find>buff</find>
+      <find>writer</find>
+      <find>buffered</find>
+      <find>set</find>
+      <find>sound</find>
+      <find>boom</find>
+      <find>option</find>
+      <find>p1.draw</find>
+      <find>exp</find>
+      <find>explosion</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>GameFiles.GalacticMail</replace>
+      <replace>Ship</replace>
+      <replace>GalacticMail</replace>
+      <replace>Exp</replace>
+      <replace>0</replace>
+      <replace>world</replace>
+      <replace>buffer</replace>
+      <replace>bufferImg</replace>
+      <replace>p1</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Control.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MapGen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GalacticMail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/Wall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/IndestructibleWall.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/map.csv" />
+        <option value="$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/Base.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/Home.java" />
+        <option value="$USER_HOME$/Downloads/makeMaps.py" />
+        <option value="$PROJECT_DIR$/src/main/java/GameFiles/MapGen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GameFiles/MapCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Scores.txt" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/GameFiles/Score.java" />
+        <option value="$PROJECT_DIR$/target/classes/Scores.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/GameFiles/ScoreTable.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/GameFiles/HashMaps/ImageTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GameFiles/HashMaps/ConfigFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GameFiles/HashMaps/MapObjects.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/GameObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/Asteroid.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/Ship.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/Explosion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GameFiles/GalacticMail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GameFiles/Control.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Gametwo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Gametwo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Gametwo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="assembly" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Gametwo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1267" />
+    <option name="width" value="1311" />
+    <option name="height" value="1390" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Gametwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-secondgame-jjulian91" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gametwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-secondgame-jjulian91" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gametwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-secondgame-jjulian91" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gametwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-secondgame-jjulian91" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gametwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-secondgame-jjulian91" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="GameFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gametwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-secondgame-jjulian91" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="GameFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="HashMaps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gametwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-secondgame-jjulian91" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15742025" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jonju\IdeaProjects\csc413-secondgame-jjulian91\src\main\resources" />
+      <recent name="C:\Users\jonju\IdeaProjects\csc413-secondgame-jjulian91" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameFiles.GalacticMail" />
+      <module name="csc413-secondgame-jjulian91" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/csc413_secondgame_jjulian91_jar/csc413-secondgame-jjulian91.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jar" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/csc413_secondgame_jjulian91_jar/csc413-secondgame-jjulian91.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\jonju\IdeaProjects\csc413-secondgame-jjulian91" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="JAR Application.jar" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1723382-f2d6-41c0-8706-d89eaaf770dc" name="Default Changelist" comment="" />
+      <created>1555610856427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555610856427</updated>
+      <workItem from="1555610860336" duration="2061000" />
+      <workItem from="1555622454665" duration="5765000" />
+      <workItem from="1555638269747" duration="2544000" />
+      <workItem from="1555643766028" duration="3258000" />
+      <workItem from="1555687019490" duration="15467000" />
+      <workItem from="1555726482402" duration="238000" />
+      <workItem from="1555726762855" duration="18000" />
+      <workItem from="1555943526631" duration="5272000" />
+      <workItem from="1555956493452" duration="3889000" />
+      <workItem from="1555960528253" duration="29000" />
+      <workItem from="1555972334750" duration="392000" />
+      <workItem from="1556141317992" duration="375000" />
+      <workItem from="1556144546623" duration="178000" />
+      <workItem from="1556206593704" duration="6304000" />
+      <workItem from="1556219011156" duration="6653000" />
+      <workItem from="1556229312128" duration="9405000" />
+      <workItem from="1556294036921" duration="683000" />
+      <workItem from="1556294814451" duration="850000" />
+      <workItem from="1556308215846" duration="315000" />
+      <workItem from="1556552374857" duration="79000" />
+      <workItem from="1556579554046" duration="598000" />
+      <workItem from="1556733177114" duration="258000" />
+      <workItem from="1556742044670" duration="296000" />
+      <workItem from="1556904477896" duration="286000" />
+      <workItem from="1556905392519" duration="283000" />
+      <workItem from="1556922593915" duration="425000" />
+      <workItem from="1557252027300" duration="4057000" />
+      <workItem from="1557327468740" duration="2818000" />
+      <workItem from="1557348193608" duration="157000" />
+      <workItem from="1564612037529" duration="214000" />
+      <workItem from="1565055989073" duration="597000" />
+      <workItem from="1565902149686" duration="171000" />
+      <workItem from="1568842128800" duration="101000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit -- needs to remove and refactor for galacticMail">
+      <created>1555611583982</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555611583983</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit cleaned up files need to implement changes from tank -&gt; galactic&#10;resources">
+      <created>1555612926621</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555612926621</updated>
+    </task>
+    <task id="LOCAL-00003" summary="map draws, flashing sprite -___-">
+      <created>1555644726751</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555644726752</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Game runs, need to work on moving item from left to right on screen overflow&#10;checkborder causes screen flash. moons disappear after you leave it.">
+      <created>1555697626831</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555697626831</updated>
+    </task>
+    <task id="LOCAL-00005" summary="game runs -- add asteroids -- levels -- way to transition between levels">
+      <created>1555699636499</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1555699636499</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Do collisions, Do high score table">
+      <created>1555956940954</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1555956940955</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Collisions done -&gt; need to run score table shtuff">
+      <created>1555960413706</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1555960413706</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Score updates. Need to write to file">
+      <created>1556222094462</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1556222094463</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Finished, scores update in IDE, not building for a database, keeping&#10;portability of JAR -- no external resources.">
+      <created>1556238805372</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1556238805372</updated>
+    </task>
+    <task id="LOCAL-00010" summary="cleaned">
+      <created>1557252947849</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1557252947849</updated>
+    </task>
+    <task id="LOCAL-00011" summary="additional clean">
+      <created>1557253271204</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1557253271204</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="74036000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1477" height="797" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.97885835" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32882884" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32582584" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40425533" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32882884" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32882884" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32882884" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24947146" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980973" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32980973" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29457363" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32882884" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32882884" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993994" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32882884" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32882884" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32882884" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24947146" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980973" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32980973" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit -- needs to remove and refactor for galacticMail" />
+    <MESSAGE value="Commit cleaned up files need to implement changes from tank -&gt; galactic&#10;resources" />
+    <MESSAGE value="map draws, flashing sprite -___-" />
+    <MESSAGE value="Game runs, need to work on moving item from left to right on screen overflow&#10;checkborder causes screen flash. moons disappear after you leave it." />
+    <MESSAGE value="game runs -- add asteroids -- levels -- way to transition between levels" />
+    <MESSAGE value="Do collisions, Do high score table" />
+    <MESSAGE value="Collisions done -&gt; need to run score table shtuff" />
+    <MESSAGE value="Score updates. Need to write to file" />
+    <MESSAGE value="Finished, scores update in IDE, not building for a database, keeping&#10;portability of JAR -- no external resources." />
+    <MESSAGE value="cleaned" />
+    <MESSAGE value="additional clean" />
+    <option name="LAST_COMMIT_MESSAGE" value="additional clean" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/GameObject.java</url>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/GameFiles/MapCreator.java</url>
+          <line>15</line>
+          <properties class="GameFiles.MapCreator" method="create">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../csc413-tankgame-jjulian91/src/main/java/gamefiles/TankWars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="363" selection-start-line="1" selection-end-line="363" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/Wall.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/DestructibleWall.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/Health.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/IndestructibleWall.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/map1.csv" />
+    <entry file="file://$PROJECT_DIR$/../413/Same Source Code-20190314/game1942WithoutObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="138" column="38" selection-start-line="138" selection-start-column="25" selection-end-line="138" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#5642#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../413/TankRotationExample-20190319/TRE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+          <folding>
+            <element signature="e#0#2569#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../413/java/java/Game/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1471">
+          <folding>
+            <element signature="e#0#4293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../413/java/java/Manager/GameManager.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/makeMaps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/MapGen.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Title.gif" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Scores1.txt" />
+    <entry file="file://$PROJECT_DIR$/../413/java/java/Helpers/score.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://JAVA/GameFiles.ScoreTable">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>GameFiles.ScoreTable</OriginalElement>
+          <nodes>
+            <node x="" y="">GameFiles.ScoreTable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="60.0" y="14.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../413/java/java/Tables/HighScoresTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="54" column="97" lean-forward="true" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Scores.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/Scores.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../413/Same Source Code-20190314/AirStrike/CollisionDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../413/Same Source Code-20190314/AirStrike/Explosion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../413/Same Source Code-20190314/AirStrike/GameWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#14002#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../413/Same Source Code-20190314/AirStrike/SoundPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="38" column="33" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#1779#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Planetoids.gif" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Planets.gif" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="221">
+            <caret line="13" column="124" selection-start-line="13" selection-start-column="124" selection-end-line="13" selection-end-column="124" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Flying.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Landed.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Moon.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Bases.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Explosion.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/HashMaps/MapObjects.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/Ship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1698">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Ship#0;class#Ship#0" />
+            <element signature="method#toggleblastOffPressed#0;class#Ship#0" />
+            <element signature="docComment;method#rotateLeft#0;class#Ship#0" />
+            <element signature="method#rotateLeft#0;class#Ship#0" />
+            <element signature="docComment;method#rotateRight#0;class#Ship#0" />
+            <element signature="method#rotateRight#0;class#Ship#0" />
+            <element signature="method#update#0;class#Ship#0" />
+            <element signature="method#reduceHealth#0;class#Ship#0" />
+            <element signature="e#3481#3482#0" expanded="true" />
+            <element signature="e#3513#3514#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/Asteroid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+          <folding>
+            <element signature="method#Base#0;class#Base#0" />
+            <element signature="method#collide#0;class#Base#0" />
+            <element signature="method#reduceHealth#0;class#Base#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/Drawable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="47" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/Explosion.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/MapCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#create#0;class#MapCreator#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/ScoreTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#init#0;class#ScoreTable#0" />
+            <element signature="method#updateScore#0;class#ScoreTable#0" />
+            <element signature="method#displayScore#0;class#ScoreTable#0" />
+            <element signature="method#top5#0;class#ScoreTable#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/Score.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="22" column="65" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/GameObjects/GameObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="208" selection-start-line="208" selection-end-line="208" />
+          <folding>
+            <element signature="docComment;class#GameObject#0" />
+            <element signature="docComment;method#GameObject#0;class#GameObject#0" />
+            <element signature="method#GameObject#0;class#GameObject#0" />
+            <element signature="docComment;method#GameObject#1;class#GameObject#0" />
+            <element signature="method#GameObject#1;class#GameObject#0" />
+            <element signature="docComment;method#GameObject#2;class#GameObject#0" />
+            <element signature="method#GameObject#2;class#GameObject#0" />
+            <element signature="docComment;method#GameObject#3;class#GameObject#0" />
+            <element signature="method#GameObject#3;class#GameObject#0" />
+            <element signature="docComment;method#collide#0;class#GameObject#0" />
+            <element signature="docComment;method#getDamage#0;class#GameObject#0" />
+            <element signature="docComment;method#reduceHealth#0;class#GameObject#0" />
+            <element signature="docComment;method#setCollideable#0;class#GameObject#0" />
+            <element signature="docComment;method#getX#0;class#GameObject#0" />
+            <element signature="docComment;method#getY#0;class#GameObject#0" />
+            <element signature="docComment;method#getWidth#0;class#GameObject#0" />
+            <element signature="docComment;method#getHeight#0;class#GameObject#0" />
+            <element signature="docComment;method#setX#0;class#GameObject#0" />
+            <element signature="docComment;method#setY#0;class#GameObject#0" />
+            <element signature="docComment;method#setShow#0;class#GameObject#0" />
+            <element signature="docComment;method#getVx#0;class#GameObject#0" />
+            <element signature="docComment;method#getVy#0;class#GameObject#0" />
+            <element signature="docComment;method#moveForwards#0;class#GameObject#0" />
+            <element signature="method#moveForwards#0;class#GameObject#0" />
+            <element signature="docComment;method#checkBorder#0;class#GameObject#0" />
+            <element signature="method#checkBorder#0;class#GameObject#0" />
+            <element signature="docComment;method#draw#0;class#GameObject#0" />
+            <element signature="method#draw#0;class#GameObject#0" />
+            <element signature="docComment;method#updateBorder#0;class#GameObject#0" />
+            <element signature="docComment;method#getBorder#0;class#GameObject#0" />
+            <element signature="method#getBorder#0;class#GameObject#0" />
+            <element signature="e#6366#6411#0" />
+            <element signature="docComment;method#getShow#0;class#GameObject#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/HashMaps/ImageTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/Control.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/GalacticMail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58">
+          <caret line="197" column="12" selection-start-line="197" selection-start-column="12" selection-end-line="197" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#GalacticMail#0" />
+            <element signature="docComment;method#paintComponent#0;class#GalacticMail#0" />
+            <element signature="method#paintComponent#0;class#GalacticMail#0" />
+            <element signature="docComment;method#getMapItems#0;class#GalacticMail#0" />
+            <element signature="docComment;method#drawGame#0;class#GalacticMail#0" />
+            <element signature="method#drawGame#0;class#GalacticMail#0" />
+            <element signature="method#checkCollisions#0;class#GalacticMail#0" />
+            <element signature="method#endGame#0;class#GalacticMail#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GameFiles/HashMaps/ConfigFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>csc413-secondgame-jjulian91:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>csc413-secondgame-jjulian91</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

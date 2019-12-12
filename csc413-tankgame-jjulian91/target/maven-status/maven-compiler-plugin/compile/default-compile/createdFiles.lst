@@ -1,0 +1,17 @@
+gamefiles\GameObjects\Life.class
+gamefiles\GameObjects\Wall.class
+gamefiles\HashMaps\MapObjects.class
+gamefiles\HashMaps\ImageTable.class
+gamefiles\GameObjects\Bullet.class
+gamefiles\GameObjects\IndestructibleWall.class
+gamefiles\GameObjects\LivesBoost.class
+gamefiles\TankWars.class
+gamefiles\GameObjects\Health.class
+gamefiles\GameObjects\Tank.class
+gamefiles\MapGen.class
+gamefiles\GameObjects\GameObject.class
+gamefiles\TankControl.class
+gamefiles\GameObjects\Explosion.class
+gamefiles\GameObjects\Drawable.class
+gamefiles\GameObjects\DestructibleWall.class
+gamefiles\HashMaps\ConfigFile.class

@@ -1,0 +1,15 @@
+GameFiles\GameObjects\Asteroid.class
+GameFiles\GameObjects\Ship.class
+GameFiles\HashMaps\MapObjects.class
+GameFiles\ScoreTable.class
+GameFiles\GameObjects\Drawable.class
+GameFiles\GalacticMail.class
+GameFiles\GameObjects\Explosion.class
+GameFiles\HashMaps\ImageTable.class
+GameFiles\HashMaps\ConfigFile.class
+GameFiles\MapCreator.class
+GameFiles\GameObjects\Home.class
+GameFiles\GameObjects\Base.class
+GameFiles\GameObjects\GameObject.class
+GameFiles\Score.class
+GameFiles\Control.class

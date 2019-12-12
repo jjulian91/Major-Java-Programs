@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="csc413-secondgame-jjulian91:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/csc413_secondgame_jjulian91_jar</output-path>
+    <root id="archive" name="csc413-secondgame-jjulian91.jar">
+      <element id="module-output" name="csc413-secondgame-jjulian91" />
+    </root>
+  </artifact>
+</component>
